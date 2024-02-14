@@ -8,7 +8,7 @@ REQUIREMENTS:
 
 Steps: 1]Download the repository in your System and extract the Downloaded Zip File 
        2] open the extracted folder and open the CMD in the same directory
-       3]Type "python diet.py" on cmd and Hit the enter button 
+       3]Type "python main.py" on cmd and Hit the enter button 
        4]Now you will see GUI Window . Fill the Details and Click on ENTER .
        5]Output will be on CMD Window
 
